@@ -1,0 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+.nav{
+  background-color: black;
+}
+.search-icon {
+  position: absolute;
+  z-index: 10;
+  right: 10%;
+  top: 20px;
+  color: blue;
+}
